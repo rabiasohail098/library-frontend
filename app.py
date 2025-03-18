@@ -6,7 +6,7 @@ from PIL import Image
 import io
 
 # ---- Adjust BASE_URL ----
-BASE_URL = "http://127.0.0.1:8000"  # Replace with your backend URL
+BASE_URL = "backend-library-production-f4c2.up.railway.app"  # Replace with your backend URL
 
 # ---- Custom CSS ----
 st.markdown("""
